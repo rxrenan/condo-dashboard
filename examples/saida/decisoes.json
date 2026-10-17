@@ -1,0 +1,163 @@
+[
+  {
+    "arquivo": "ago-2027-01-22.pdf",
+    "assembleia": "AGO",
+    "assembleia_titulo": "Assembleia geral ordinária",
+    "assunto": "Contas do exercício de 2026",
+    "data": "2027-01-22",
+    "execucao": "sem_obra",
+    "execucao_rotulo": "Sem obra vinculada",
+    "id": "ago-2027-01-22-d01",
+    "numero": 1,
+    "pagina": 2,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "confirmada",
+    "trecho": "Ficam aprovadas as contas do exercício de 2026 apresentadas pela gestão.",
+    "valor_aprovado_centavos": null,
+    "votacao": {
+      "a_favor": 58,
+      "abstencoes": 7,
+      "contra": 6
+    },
+    "votacao_texto": "58 a favor, 6 contra e 7 abstenções."
+  },
+  {
+    "arquivo": "ago-2027-01-22.pdf",
+    "assembleia": "AGO",
+    "assembleia_titulo": "Assembleia geral ordinária",
+    "assunto": "Encerramento da impermeabilização da laje do bloco C",
+    "data": "2027-01-22",
+    "execucao": "concluida",
+    "execucao_rotulo": "Concluída",
+    "id": "ago-2027-01-22-d02",
+    "numero": 2,
+    "pagina": 2,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "confirmada",
+    "trecho": "Fica registrado o encerramento da impermeabilização da laje do bloco C, aprovada em 12 de agosto de 2026, pelo valor de até R$ 28.000,00.",
+    "valor_aprovado_centavos": 2800000,
+    "votacao": {
+      "a_favor": 64,
+      "abstencoes": 5,
+      "contra": 2
+    },
+    "votacao_texto": "64 a favor, 2 contra e 5 abstenções."
+  },
+  {
+    "arquivo": "ago-2027-01-22.pdf",
+    "assembleia": "AGO",
+    "assembleia_titulo": "Assembleia geral ordinária",
+    "assunto": "Troca da empresa de dedetização",
+    "data": "2027-01-22",
+    "execucao": "aguardando_revisao",
+    "execucao_rotulo": "Aguardando revisão",
+    "id": "ago-2027-01-22-d03",
+    "numero": 3,
+    "pagina": 2,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "pendente",
+    "trecho": "Fica aprovada a troca da empresa de dedetização a partir de maio de 2027, com a escolha do fornecedor a cargo do síndico e do conselho.",
+    "valor_aprovado_centavos": null,
+    "votacao": {
+      "a_favor": 49,
+      "abstencoes": 11,
+      "contra": 11
+    },
+    "votacao_texto": "49 a favor, 11 contra e 11 abstenções."
+  },
+  {
+    "arquivo": "age-2027-03-18.pdf",
+    "assembleia": "AGE",
+    "assembleia_titulo": "Assembleia geral extraordinária",
+    "assunto": "Pintura da garagem dos blocos A e B",
+    "data": "2027-03-18",
+    "execucao": "em_andamento",
+    "execucao_rotulo": "Em andamento",
+    "id": "age-2027-03-18-d01",
+    "numero": 1,
+    "pagina": 2,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "confirmada",
+    "trecho": "Fica aprovada a pintura da garagem dos blocos A e B, pelo valor de até R$ 45.000,00, em quatro etapas, no prazo de sessenta dias.",
+    "valor_aprovado_centavos": 4500000,
+    "votacao": {
+      "a_favor": 62,
+      "abstencoes": 3,
+      "contra": 8
+    },
+    "votacao_texto": "62 a favor, 8 contra e 3 abstenções."
+  },
+  {
+    "arquivo": "age-2027-03-18.pdf",
+    "assembleia": "AGE",
+    "assembleia_titulo": "Assembleia geral extraordinária",
+    "assunto": "Troca das luminárias das áreas comuns",
+    "data": "2027-03-18",
+    "execucao": "em_andamento",
+    "execucao_rotulo": "Em andamento",
+    "id": "age-2027-03-18-d02",
+    "numero": 2,
+    "pagina": 2,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "confirmada",
+    "trecho": "Fica aprovada a troca das luminárias das áreas comuns por LED, pelo valor de até R$ 12.000,00, em três etapas.",
+    "valor_aprovado_centavos": 1200000,
+    "votacao": {
+      "a_favor": 70,
+      "abstencoes": 1,
+      "contra": 2
+    },
+    "votacao_texto": "70 a favor, 2 contra e 1 abstenção."
+  },
+  {
+    "arquivo": "age-2027-03-18.pdf",
+    "assembleia": "AGE",
+    "assembleia_titulo": "Assembleia geral extraordinária",
+    "assunto": "Adiamento da reforma do playground",
+    "data": "2027-03-18",
+    "execucao": "nao_iniciada",
+    "execucao_rotulo": "Não iniciada",
+    "id": "age-2027-03-18-d03",
+    "numero": 3,
+    "pagina": 3,
+    "resultado": "aprovado",
+    "resultado_rotulo": "Aprovado",
+    "revisao": "confirmada",
+    "trecho": "Fica adiada para o segundo semestre de 2027 a decisão sobre a reforma do playground, sem aprovação de valor nesta data.",
+    "valor_aprovado_centavos": null,
+    "votacao": {
+      "a_favor": 55,
+      "abstencoes": 4,
+      "contra": 14
+    },
+    "votacao_texto": "55 a favor, 14 contra e 4 abstenções."
+  },
+  {
+    "arquivo": "age-2027-03-18.pdf",
+    "assembleia": "AGE",
+    "assembleia_titulo": "Assembleia geral extraordinária",
+    "assunto": "Fechamento da churrasqueira aos domingos",
+    "data": "2027-03-18",
+    "execucao": "rejeitada",
+    "execucao_rotulo": "Rejeitada",
+    "id": "age-2027-03-18-d04",
+    "numero": 4,
+    "pagina": 3,
+    "resultado": "rejeitado",
+    "resultado_rotulo": "Rejeitado",
+    "revisao": "confirmada",
+    "trecho": "A proposta de fechar a churrasqueira aos domingos foi rejeitada pela assembleia.",
+    "valor_aprovado_centavos": null,
+    "votacao": {
+      "a_favor": 21,
+      "abstencoes": 4,
+      "contra": 48
+    },
+    "votacao_texto": "21 a favor, 48 contra e 4 abstenções."
+  }
+]

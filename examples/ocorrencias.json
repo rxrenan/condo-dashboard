@@ -1,0 +1,31 @@
+[
+  {
+    "id": "oc-01",
+    "titulo": "Infiltração no forro do salão de festas",
+    "area": "Salão de festas",
+    "status": "aberta",
+    "aberta_em": "2027-04-02",
+    "atualizacao": "A gestão pediu visita técnica. Sem previsão publicada.",
+    "descricao": "Mancha de umidade no forro, perto da janela voltada para a piscina."
+  },
+  {
+    "id": "oc-02",
+    "titulo": "Portão da garagem para no meio do fechamento",
+    "area": "Garagem",
+    "status": "em_andamento",
+    "aberta_em": "2027-03-28",
+    "atualizacao": "Fornecedor acionado. A visita ficou para a semana de 14 de abril.",
+    "descricao": "O portão da garagem interrompe o fechamento e precisa de pulso manual."
+  },
+  {
+    "id": "oc-03",
+    "titulo": "Lâmpadas apagadas no hall do bloco B",
+    "area": "Bloco B",
+    "status": "concluida",
+    "aberta_em": "2027-03-20",
+    "concluida_em": "2027-04-06",
+    "atualizacao": "Trocadas na primeira etapa da obra de luminárias.",
+    "descricao": "Duas luminárias do hall do térreo estavam apagadas.",
+    "obra_id": "obra-luminarias"
+  }
+]

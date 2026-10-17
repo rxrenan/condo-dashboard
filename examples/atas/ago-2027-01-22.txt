@@ -1,0 +1,30 @@
+=== PÁGINA 1 ===
+ATA DA ASSEMBLEIA GERAL ORDINÁRIA
+CONDOMÍNIO RESIDENCIAL DAS ACÁCIAS
+Documento fictício para demonstração. Não descreve um condomínio real.
+
+Data: 22 de janeiro de 2027
+Local: salão de festas
+Início: 19h30
+Quórum: 71 unidades presentes, de 120.
+
+Ordem do dia: contas do exercício de 2026, registro de encerramento de uma obra e empresa de dedetização. Cada votação aparece só em total.
+
+=== PÁGINA 2 ===
+DELIBERAÇÃO 01
+Assunto: Contas do exercício de 2026
+Trecho: Ficam aprovadas as contas do exercício de 2026 apresentadas pela gestão.
+Votação agregada: 58 a favor, 6 contra e 7 abstenções.
+Resultado: APROVADO
+
+DELIBERAÇÃO 02
+Assunto: Encerramento da impermeabilização da laje do bloco C
+Trecho: Fica registrado o encerramento da impermeabilização da laje do bloco C, aprovada em 12 de agosto de 2026, pelo valor de até R$ 28.000,00.
+Votação agregada: 64 a favor, 2 contra e 5 abstenções.
+Resultado: APROVADO
+
+DELIBERAÇÃO 03
+Assunto: Troca da empresa de dedetização
+Trecho: Fica aprovada a troca da empresa de dedetização a partir de maio de 2027, com a escolha do fornecedor a cargo do síndico e do conselho.
+Votação agregada: 49 a favor, 11 contra e 11 abstenções.
+Resultado: APROVADO

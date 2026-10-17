@@ -1,0 +1,727 @@
+{
+  "decisoes": [
+    {
+      "arquivo": "ago-2027-01-22.pdf",
+      "assembleia": "AGO",
+      "assembleia_titulo": "Assembleia geral ordinária",
+      "assunto": "Contas do exercício de 2026",
+      "data": "2027-01-22",
+      "execucao": "sem_obra",
+      "execucao_rotulo": "Sem obra vinculada",
+      "id": "ago-2027-01-22-d01",
+      "numero": 1,
+      "pagina": 2,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "confirmada",
+      "trecho": "Ficam aprovadas as contas do exercício de 2026 apresentadas pela gestão.",
+      "valor_aprovado_centavos": null,
+      "votacao": {
+        "a_favor": 58,
+        "abstencoes": 7,
+        "contra": 6
+      },
+      "votacao_texto": "58 a favor, 6 contra e 7 abstenções."
+    },
+    {
+      "arquivo": "ago-2027-01-22.pdf",
+      "assembleia": "AGO",
+      "assembleia_titulo": "Assembleia geral ordinária",
+      "assunto": "Encerramento da impermeabilização da laje do bloco C",
+      "data": "2027-01-22",
+      "execucao": "concluida",
+      "execucao_rotulo": "Concluída",
+      "id": "ago-2027-01-22-d02",
+      "numero": 2,
+      "pagina": 2,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "confirmada",
+      "trecho": "Fica registrado o encerramento da impermeabilização da laje do bloco C, aprovada em 12 de agosto de 2026, pelo valor de até R$ 28.000,00.",
+      "valor_aprovado_centavos": 2800000,
+      "votacao": {
+        "a_favor": 64,
+        "abstencoes": 5,
+        "contra": 2
+      },
+      "votacao_texto": "64 a favor, 2 contra e 5 abstenções."
+    },
+    {
+      "arquivo": "ago-2027-01-22.pdf",
+      "assembleia": "AGO",
+      "assembleia_titulo": "Assembleia geral ordinária",
+      "assunto": "Troca da empresa de dedetização",
+      "data": "2027-01-22",
+      "execucao": "aguardando_revisao",
+      "execucao_rotulo": "Aguardando revisão",
+      "id": "ago-2027-01-22-d03",
+      "numero": 3,
+      "pagina": 2,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "pendente",
+      "trecho": "Fica aprovada a troca da empresa de dedetização a partir de maio de 2027, com a escolha do fornecedor a cargo do síndico e do conselho.",
+      "valor_aprovado_centavos": null,
+      "votacao": {
+        "a_favor": 49,
+        "abstencoes": 11,
+        "contra": 11
+      },
+      "votacao_texto": "49 a favor, 11 contra e 11 abstenções."
+    },
+    {
+      "arquivo": "age-2027-03-18.pdf",
+      "assembleia": "AGE",
+      "assembleia_titulo": "Assembleia geral extraordinária",
+      "assunto": "Pintura da garagem dos blocos A e B",
+      "data": "2027-03-18",
+      "execucao": "em_andamento",
+      "execucao_rotulo": "Em andamento",
+      "id": "age-2027-03-18-d01",
+      "numero": 1,
+      "pagina": 2,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "confirmada",
+      "trecho": "Fica aprovada a pintura da garagem dos blocos A e B, pelo valor de até R$ 45.000,00, em quatro etapas, no prazo de sessenta dias.",
+      "valor_aprovado_centavos": 4500000,
+      "votacao": {
+        "a_favor": 62,
+        "abstencoes": 3,
+        "contra": 8
+      },
+      "votacao_texto": "62 a favor, 8 contra e 3 abstenções."
+    },
+    {
+      "arquivo": "age-2027-03-18.pdf",
+      "assembleia": "AGE",
+      "assembleia_titulo": "Assembleia geral extraordinária",
+      "assunto": "Troca das luminárias das áreas comuns",
+      "data": "2027-03-18",
+      "execucao": "em_andamento",
+      "execucao_rotulo": "Em andamento",
+      "id": "age-2027-03-18-d02",
+      "numero": 2,
+      "pagina": 2,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "confirmada",
+      "trecho": "Fica aprovada a troca das luminárias das áreas comuns por LED, pelo valor de até R$ 12.000,00, em três etapas.",
+      "valor_aprovado_centavos": 1200000,
+      "votacao": {
+        "a_favor": 70,
+        "abstencoes": 1,
+        "contra": 2
+      },
+      "votacao_texto": "70 a favor, 2 contra e 1 abstenção."
+    },
+    {
+      "arquivo": "age-2027-03-18.pdf",
+      "assembleia": "AGE",
+      "assembleia_titulo": "Assembleia geral extraordinária",
+      "assunto": "Adiamento da reforma do playground",
+      "data": "2027-03-18",
+      "execucao": "nao_iniciada",
+      "execucao_rotulo": "Não iniciada",
+      "id": "age-2027-03-18-d03",
+      "numero": 3,
+      "pagina": 3,
+      "resultado": "aprovado",
+      "resultado_rotulo": "Aprovado",
+      "revisao": "confirmada",
+      "trecho": "Fica adiada para o segundo semestre de 2027 a decisão sobre a reforma do playground, sem aprovação de valor nesta data.",
+      "valor_aprovado_centavos": null,
+      "votacao": {
+        "a_favor": 55,
+        "abstencoes": 4,
+        "contra": 14
+      },
+      "votacao_texto": "55 a favor, 14 contra e 4 abstenções."
+    },
+    {
+      "arquivo": "age-2027-03-18.pdf",
+      "assembleia": "AGE",
+      "assembleia_titulo": "Assembleia geral extraordinária",
+      "assunto": "Fechamento da churrasqueira aos domingos",
+      "data": "2027-03-18",
+      "execucao": "rejeitada",
+      "execucao_rotulo": "Rejeitada",
+      "id": "age-2027-03-18-d04",
+      "numero": 4,
+      "pagina": 3,
+      "resultado": "rejeitado",
+      "resultado_rotulo": "Rejeitado",
+      "revisao": "confirmada",
+      "trecho": "A proposta de fechar a churrasqueira aos domingos foi rejeitada pela assembleia.",
+      "valor_aprovado_centavos": null,
+      "votacao": {
+        "a_favor": 21,
+        "abstencoes": 4,
+        "contra": 48
+      },
+      "votacao_texto": "21 a favor, 48 contra e 4 abstenções."
+    }
+  ],
+  "meta": {
+    "atualizado_em": "2027-04-12",
+    "aviso": "Dados 100% fictícios. Este condomínio não existe.",
+    "competencia_resumo": "2027-04",
+    "condominio": "Residencial das Acácias",
+    "modo": "deterministico",
+    "produto": "Painel do condomínio",
+    "visao": "conselho"
+  },
+  "mudancas": [
+    {
+      "antes": "Todos os dias, das 8h às 18h",
+      "data": "2027-04-01",
+      "depois": "Terça a sábado, das 8h às 17h",
+      "fonte": "Comunicado da gestão em 1º de abril de 2027",
+      "id": "md-01",
+      "titulo": "Horário de mudança"
+    },
+    {
+      "antes": "Fornecedor anterior, contrato encerrado",
+      "data": "2027-03-20",
+      "depois": "LimpaBem Serviços Ltda assume a limpeza",
+      "fonte": "Comunicado da gestão em 20 de março de 2027",
+      "id": "md-02",
+      "titulo": "Limpeza das áreas comuns"
+    },
+    {
+      "antes": "Havia proposta de fechar aos domingos",
+      "data": "2027-03-18",
+      "depois": "O uso aos domingos continua permitido",
+      "fonte": "AGE de 18 de março de 2027, deliberação 04, resultado rejeitado",
+      "id": "md-03",
+      "titulo": "Churrasqueira aos domingos"
+    },
+    {
+      "antes": "Fechamento às 23h",
+      "data": "2027-04-05",
+      "depois": "Fechamento às 22h",
+      "fonte": "Comunicado da gestão em 5 de abril de 2027",
+      "id": "md-04",
+      "titulo": "Horário da academia"
+    }
+  ],
+  "obras": [
+    {
+      "decisao": {
+        "arquivo": "ago-2027-01-22.pdf",
+        "assembleia": "AGO",
+        "assembleia_titulo": "Assembleia geral ordinária",
+        "assunto": "Encerramento da impermeabilização da laje do bloco C",
+        "data": "2027-01-22",
+        "id": "ago-2027-01-22-d02",
+        "pagina": 2,
+        "resultado": "aprovado",
+        "resultado_rotulo": "Aprovado",
+        "revisao": "confirmada",
+        "trecho": "Fica registrado o encerramento da impermeabilização da laje do bloco C, aprovada em 12 de agosto de 2026, pelo valor de até R$ 28.000,00.",
+        "votacao": {
+          "a_favor": 64,
+          "abstencoes": 5,
+          "contra": 2
+        },
+        "votacao_texto": "64 a favor, 2 contra e 5 abstenções."
+      },
+      "decisao_id": "ago-2027-01-22-d02",
+      "etapa_atual": 3,
+      "etapas": [
+        {
+          "estado": "concluida",
+          "fim": "2026-09-20",
+          "inicio": "2026-09-08",
+          "n": 1,
+          "titulo": "Retirada do piso solto"
+        },
+        {
+          "estado": "concluida",
+          "fim": "2026-11-15",
+          "inicio": "2026-09-21",
+          "n": 2,
+          "titulo": "Manta e proteção"
+        },
+        {
+          "estado": "concluida",
+          "fim": "2027-01-10",
+          "inicio": "2026-11-16",
+          "n": 3,
+          "titulo": "Teste de chuva e entrega"
+        }
+      ],
+      "etapas_total": 3,
+      "fotos": [
+        {
+          "legenda": "Laje do bloco C depois da manta. Ilustração fictícia, não é foto da obra.",
+          "src": "/ilustracoes/laje.svg"
+        }
+      ],
+      "gastos": [
+        {
+          "arquivo": "2027-01.csv",
+          "categoria": "Reformas e reparos",
+          "confianca": "alta",
+          "data": "2027-01-20",
+          "documento": "NF-3011",
+          "fornecedor": "Lajes Norte Ltda",
+          "historico": "Impermeabilização da laje do bloco C",
+          "linha": 2,
+          "motivo": "termo específico no histórico",
+          "projeto_id": "obra-laje",
+          "publicada": true,
+          "revisao": "confirmada",
+          "revisar": false,
+          "valor_centavos": 2735000
+        }
+      ],
+      "id": "obra-laje",
+      "nota": "A assembleia de janeiro de 2027 registrou o encerramento.",
+      "orcamento_aprovado_centavos": 2800000,
+      "orcamento_aprovado_texto": "R$ 28.000,00",
+      "realizado_centavos": 2735000,
+      "realizado_texto": "R$ 27.350,00",
+      "responsavel": "Gestão de 2026, encerrada",
+      "status": "concluida",
+      "status_rotulo": "Concluída",
+      "sugestoes": [],
+      "sugestoes_ocultas": 0,
+      "termos": [
+        {
+          "forca": "especifica",
+          "texto": "impermeabilização da laje"
+        },
+        {
+          "forca": "especifica",
+          "texto": "lajes norte"
+        }
+      ],
+      "titulo": "Impermeabilização da laje do bloco C"
+    },
+    {
+      "decisao": {
+        "arquivo": "age-2027-03-18.pdf",
+        "assembleia": "AGE",
+        "assembleia_titulo": "Assembleia geral extraordinária",
+        "assunto": "Pintura da garagem dos blocos A e B",
+        "data": "2027-03-18",
+        "id": "age-2027-03-18-d01",
+        "pagina": 2,
+        "resultado": "aprovado",
+        "resultado_rotulo": "Aprovado",
+        "revisao": "confirmada",
+        "trecho": "Fica aprovada a pintura da garagem dos blocos A e B, pelo valor de até R$ 45.000,00, em quatro etapas, no prazo de sessenta dias.",
+        "votacao": {
+          "a_favor": 62,
+          "abstencoes": 3,
+          "contra": 8
+        },
+        "votacao_texto": "62 a favor, 8 contra e 3 abstenções."
+      },
+      "decisao_id": "age-2027-03-18-d01",
+      "etapa_atual": 2,
+      "etapas": [
+        {
+          "estado": "concluida",
+          "fim": "2027-04-02",
+          "inicio": "2027-03-24",
+          "n": 1,
+          "titulo": "Preparo e raspagem"
+        },
+        {
+          "estado": "em_andamento",
+          "fim": null,
+          "inicio": "2027-04-03",
+          "n": 2,
+          "titulo": "Primeira demão, bloco A"
+        },
+        {
+          "estado": "nao_iniciada",
+          "fim": null,
+          "inicio": null,
+          "n": 3,
+          "titulo": "Primeira demão, bloco B"
+        },
+        {
+          "estado": "nao_iniciada",
+          "fim": null,
+          "inicio": null,
+          "n": 4,
+          "titulo": "Demão final e revisão"
+        }
+      ],
+      "etapas_total": 4,
+      "fotos": [
+        {
+          "legenda": "Bloco A, preparo do piso. Ilustração fictícia, não é foto da obra.",
+          "src": "/ilustracoes/garagem.svg"
+        },
+        {
+          "legenda": "Primeira demão no bloco A. Ilustração fictícia, não é foto da obra.",
+          "src": "/ilustracoes/garagem-demao.svg"
+        }
+      ],
+      "gastos": [
+        {
+          "arquivo": "2027-03.csv",
+          "categoria": "Reformas e reparos",
+          "confianca": "alta",
+          "data": "2027-03-26",
+          "documento": "NF-3101",
+          "fornecedor": "Pinturas Horizonte Ltda",
+          "historico": "Tinta e selador para pintura da garagem bloco A",
+          "linha": 4,
+          "motivo": "termo específico no histórico",
+          "projeto_id": "obra-garagem",
+          "publicada": true,
+          "revisao": "confirmada",
+          "revisar": false,
+          "valor_centavos": 820000
+        },
+        {
+          "arquivo": "2027-03.csv",
+          "categoria": "Reformas e reparos",
+          "confianca": "alta",
+          "data": "2027-03-30",
+          "documento": "NF-3108",
+          "fornecedor": "Pinturas Horizonte Ltda",
+          "historico": "Mão de obra da pintura da garagem etapa de preparo",
+          "linha": 5,
+          "motivo": "termo específico no histórico",
+          "projeto_id": "obra-garagem",
+          "publicada": true,
+          "revisao": "confirmada",
+          "revisar": false,
+          "valor_centavos": 420000
+        },
+        {
+          "arquivo": "2027-04.csv",
+          "categoria": "Reformas e reparos",
+          "confianca": "alta",
+          "data": "2027-04-08",
+          "documento": "NF-3214",
+          "fornecedor": "Pinturas Horizonte Ltda",
+          "historico": "Tinta para pintura da garagem bloco A segunda compra",
+          "linha": 6,
+          "motivo": "termo específico no histórico",
+          "projeto_id": "obra-garagem",
+          "publicada": true,
+          "revisao": "confirmada",
+          "revisar": false,
+          "valor_centavos": 560000
+        }
+      ],
+      "id": "obra-garagem",
+      "nota": "Aprovada na AGE de março de 2027. O realizado só soma lançamento confirmado pelo conselho.",
+      "orcamento_aprovado_centavos": 4500000,
+      "orcamento_aprovado_texto": "R$ 45.000,00",
+      "realizado_centavos": 1800000,
+      "realizado_texto": "R$ 18.000,00",
+      "responsavel": "Marcos Almeida, síndico",
+      "status": "em_andamento",
+      "status_rotulo": "Em andamento",
+      "sugestoes": [
+        {
+          "arquivo": "2027-04.csv",
+          "categoria": "Reformas e reparos",
+          "confianca": "media",
+          "data": "2027-04-09",
+          "documento": "NF-3220",
+          "fornecedor": "Pinturas Horizonte Ltda",
+          "historico": "Mão de obra em reformas",
+          "linha": 7,
+          "motivo": "fornecedor coincide com a obra e o histórico é genérico",
+          "projeto_id": "obra-garagem",
+          "publicada": false,
+          "revisao": "sugerida",
+          "revisar": true,
+          "valor_centavos": 340000
+        }
+      ],
+      "sugestoes_ocultas": 1,
+      "termos": [
+        {
+          "forca": "especifica",
+          "texto": "pintura da garagem"
+        },
+        {
+          "forca": "especifica",
+          "texto": "pinturas horizonte"
+        }
+      ],
+      "titulo": "Pintura da garagem"
+    },
+    {
+      "decisao": {
+        "arquivo": "age-2027-03-18.pdf",
+        "assembleia": "AGE",
+        "assembleia_titulo": "Assembleia geral extraordinária",
+        "assunto": "Troca das luminárias das áreas comuns",
+        "data": "2027-03-18",
+        "id": "age-2027-03-18-d02",
+        "pagina": 2,
+        "resultado": "aprovado",
+        "resultado_rotulo": "Aprovado",
+        "revisao": "confirmada",
+        "trecho": "Fica aprovada a troca das luminárias das áreas comuns por LED, pelo valor de até R$ 12.000,00, em três etapas.",
+        "votacao": {
+          "a_favor": 70,
+          "abstencoes": 1,
+          "contra": 2
+        },
+        "votacao_texto": "70 a favor, 2 contra e 1 abstenção."
+      },
+      "decisao_id": "age-2027-03-18-d02",
+      "etapa_atual": 1,
+      "etapas": [
+        {
+          "estado": "em_andamento",
+          "fim": null,
+          "inicio": "2027-04-06",
+          "n": 1,
+          "titulo": "Hall do bloco B"
+        },
+        {
+          "estado": "nao_iniciada",
+          "fim": null,
+          "inicio": null,
+          "n": 2,
+          "titulo": "Hall do bloco A e escadas"
+        },
+        {
+          "estado": "nao_iniciada",
+          "fim": null,
+          "inicio": null,
+          "n": 3,
+          "titulo": "Garagem e salão"
+        }
+      ],
+      "etapas_total": 3,
+      "fotos": [
+        {
+          "legenda": "Hall do bloco B. Ilustração fictícia, não é foto da obra.",
+          "src": "/ilustracoes/luminaria.svg"
+        }
+      ],
+      "gastos": [
+        {
+          "arquivo": "2027-04.csv",
+          "categoria": "Manutenção",
+          "confianca": "alta",
+          "data": "2027-04-06",
+          "documento": "NF-3202",
+          "fornecedor": "Ilumina Sul Ltda",
+          "historico": "Luminária LED do hall do bloco B",
+          "linha": 5,
+          "motivo": "termo específico no histórico",
+          "projeto_id": "obra-luminarias",
+          "publicada": true,
+          "revisao": "confirmada",
+          "revisar": false,
+          "valor_centavos": 210000
+        }
+      ],
+      "id": "obra-luminarias",
+      "nota": "Aprovada na mesma AGE. Começou pelo hall do bloco B.",
+      "orcamento_aprovado_centavos": 1200000,
+      "orcamento_aprovado_texto": "R$ 12.000,00",
+      "realizado_centavos": 210000,
+      "realizado_texto": "R$ 2.100,00",
+      "responsavel": "Marcos Almeida, síndico",
+      "status": "em_andamento",
+      "status_rotulo": "Em andamento",
+      "sugestoes": [],
+      "sugestoes_ocultas": 0,
+      "termos": [
+        {
+          "forca": "especifica",
+          "texto": "luminária"
+        },
+        {
+          "forca": "especifica",
+          "texto": "luminarias"
+        },
+        {
+          "forca": "especifica",
+          "texto": "ilumina sul"
+        }
+      ],
+      "titulo": "Troca das luminárias das áreas comuns"
+    },
+    {
+      "decisao": {
+        "arquivo": "age-2027-03-18.pdf",
+        "assembleia": "AGE",
+        "assembleia_titulo": "Assembleia geral extraordinária",
+        "assunto": "Adiamento da reforma do playground",
+        "data": "2027-03-18",
+        "id": "age-2027-03-18-d03",
+        "pagina": 3,
+        "resultado": "aprovado",
+        "resultado_rotulo": "Aprovado",
+        "revisao": "confirmada",
+        "trecho": "Fica adiada para o segundo semestre de 2027 a decisão sobre a reforma do playground, sem aprovação de valor nesta data.",
+        "votacao": {
+          "a_favor": 55,
+          "abstencoes": 4,
+          "contra": 14
+        },
+        "votacao_texto": "55 a favor, 14 contra e 4 abstenções."
+      },
+      "decisao_id": "age-2027-03-18-d03",
+      "etapa_atual": 0,
+      "etapas": [
+        {
+          "estado": "nao_iniciada",
+          "fim": null,
+          "inicio": null,
+          "n": 1,
+          "titulo": "Aguardar nova assembleia no segundo semestre de 2027"
+        }
+      ],
+      "etapas_total": 1,
+      "fotos": [],
+      "gastos": [],
+      "id": "obra-playground",
+      "nota": "A assembleia adiou a decisão e não aprovou valor.",
+      "orcamento_aprovado_centavos": null,
+      "orcamento_aprovado_texto": "Sem valor aprovado",
+      "realizado_centavos": 0,
+      "realizado_texto": "R$ 0,00",
+      "responsavel": "Conselho, sem início",
+      "status": "nao_iniciada",
+      "status_rotulo": "Não iniciada",
+      "sugestoes": [],
+      "sugestoes_ocultas": 0,
+      "termos": [
+        {
+          "forca": "especifica",
+          "texto": "playground"
+        }
+      ],
+      "titulo": "Reforma do playground"
+    }
+  ],
+  "ocorrencias": [
+    {
+      "aberta_em": "2027-04-02",
+      "area": "Salão de festas",
+      "atualizacao": "A gestão pediu visita técnica. Sem previsão publicada.",
+      "descricao": "Mancha de umidade no forro, perto da janela voltada para a piscina.",
+      "id": "oc-01",
+      "status": "aberta",
+      "status_rotulo": "Aberta",
+      "titulo": "Infiltração no forro do salão de festas"
+    },
+    {
+      "aberta_em": "2027-03-28",
+      "area": "Garagem",
+      "atualizacao": "Fornecedor acionado. A visita ficou para a semana de 14 de abril.",
+      "descricao": "O portão da garagem interrompe o fechamento e precisa de pulso manual.",
+      "id": "oc-02",
+      "status": "em_andamento",
+      "status_rotulo": "Em andamento",
+      "titulo": "Portão da garagem para no meio do fechamento"
+    },
+    {
+      "aberta_em": "2027-03-20",
+      "area": "Bloco B",
+      "atualizacao": "Trocadas na primeira etapa da obra de luminárias.",
+      "concluida_em": "2027-04-06",
+      "descricao": "Duas luminárias do hall do térreo estavam apagadas.",
+      "id": "oc-03",
+      "obra_id": "obra-luminarias",
+      "status": "concluida",
+      "status_rotulo": "Concluída",
+      "titulo": "Lâmpadas apagadas no hall do bloco B"
+    }
+  ],
+  "perguntas_exemplo": [
+    "Qual o valor aprovado para a pintura da garagem?",
+    "Quanto já foi confirmado na pintura da garagem?",
+    "A reforma do playground foi aprovada?",
+    "Qual o horário de mudança?",
+    "Quem está inadimplente?",
+    "O síndico pode ser processado pelo atraso?"
+  ],
+  "regimento": [
+    {
+      "numero": 9,
+      "texto": "O registro de problema em área comum não exibe o nome de quem registrou.",
+      "titulo": "Cláusula 9. Ocorrências"
+    },
+    {
+      "numero": 14,
+      "texto": "Mudanças de móveis ocorrem de terça a sábado, das 8h às 17h, com agendamento na portaria.",
+      "titulo": "Cláusula 14. Mudanças"
+    },
+    {
+      "numero": 21,
+      "texto": "A churrasqueira de uso comum pode ser reservada inclusive aos domingos, salvo decisão futura da assembleia.",
+      "titulo": "Cláusula 21. Churrasqueira"
+    }
+  ],
+  "resumo": {
+    "competencia": "2027-04",
+    "fontes": [
+      {
+        "arquivo": "ago-2027-01-22.pdf",
+        "tipo": "ata"
+      },
+      {
+        "arquivo": "age-2027-03-18.pdf",
+        "tipo": "ata"
+      },
+      {
+        "arquivo": "2027-04.csv",
+        "tipo": "balancete"
+      },
+      {
+        "arquivo": "obras.json",
+        "tipo": "registro"
+      },
+      {
+        "arquivo": "ocorrencias.json",
+        "tipo": "registro"
+      }
+    ],
+    "texto": "Resumo de abril de 2027, montado só com registros confirmados. Nenhuma assembleia com decisão publicada em abril de 2027. A última publicada é a assembleia geral extraordinária de 18 de março de 2027. Impermeabilização da laje do bloco C está concluída, etapa 3 de 3. Pintura da garagem está em andamento, etapa 2 de 4. Troca das luminárias das áreas comuns está em andamento, etapa 1 de 3. Reforma do playground não foi iniciada. Gastos por projeto: Pintura da garagem: R$ 5.600,00 confirmados em abril, acumulado R$ 18.000,00, de R$ 45.000,00 aprovados. Troca das luminárias das áreas comuns: R$ 2.100,00 confirmados em abril, acumulado R$ 2.100,00, de R$ 12.000,00 aprovados. Ocorrências de área comum ainda sem conclusão: 2. Itens em revisão do conselho ficam de fora deste texto."
+  },
+  "revisar_despesas": [
+    {
+      "arquivo": "2027-04.csv",
+      "categoria": "Reformas e reparos",
+      "confianca": null,
+      "data": "2027-04-10",
+      "documento": "NF-3228",
+      "fornecedor": "Comercial Irmãos Prado",
+      "historico": "Material para reformas e reparos",
+      "linha": 8,
+      "motivo": "categoria de reforma sem termo de projeto",
+      "projeto_id": null,
+      "publicada": false,
+      "revisao": "sem_vinculo",
+      "revisar": true,
+      "valor_centavos": 98000
+    }
+  ],
+  "sugestoes_despesas": [
+    {
+      "arquivo": "2027-04.csv",
+      "categoria": "Reformas e reparos",
+      "confianca": "media",
+      "data": "2027-04-09",
+      "documento": "NF-3220",
+      "fornecedor": "Pinturas Horizonte Ltda",
+      "historico": "Mão de obra em reformas",
+      "linha": 7,
+      "motivo": "fornecedor coincide com a obra e o histórico é genérico",
+      "projeto_id": "obra-garagem",
+      "publicada": false,
+      "revisao": "sugerida",
+      "revisar": true,
+      "valor_centavos": 340000
+    }
+  ]
+}

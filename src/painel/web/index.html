@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Painel do condomínio</title>
+  <meta name="description" content="Demonstração fictícia: a gestão mostra a decisão da assembleia, a obra e o gasto confirmado.">
+  <link rel="icon" href="/ilustracoes/marca.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/app.css">
+  <script>
+    (function () {
+      var salvo = localStorage.getItem("painel-tema");
+      var tema = salvo || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", tema);
+    })();
+  </script>
+</head>
+<body>
+  <a class="pular" href="#conteudo">Ir para o conteúdo</a>
+  <div class="app">
+    <aside id="menu"></aside>
+    <div class="coluna">
+      <header class="topo" id="topo"></header>
+      <main id="conteudo">
+        <p class="mudo">Carregando dados fictícios.</p>
+      </main>
+    </div>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

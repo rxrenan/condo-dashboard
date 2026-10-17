@@ -1,0 +1,92 @@
+[
+  {
+    "id": "obra-laje",
+    "titulo": "Impermeabilização da laje do bloco C",
+    "decisao_id": "ago-2027-01-22-d02",
+    "status": "concluida",
+    "etapa_atual": 3,
+    "etapas_total": 3,
+    "responsavel": "Gestão de 2026, encerrada",
+    "orcamento_aprovado_centavos": 2800000,
+    "nota": "A assembleia de janeiro de 2027 registrou o encerramento.",
+    "termos": [
+      {"texto": "impermeabilização da laje", "forca": "especifica"},
+      {"texto": "lajes norte", "forca": "especifica"}
+    ],
+    "etapas": [
+      {"n": 1, "titulo": "Retirada do piso solto", "estado": "concluida", "inicio": "2026-09-08", "fim": "2026-09-20"},
+      {"n": 2, "titulo": "Manta e proteção", "estado": "concluida", "inicio": "2026-09-21", "fim": "2026-11-15"},
+      {"n": 3, "titulo": "Teste de chuva e entrega", "estado": "concluida", "inicio": "2026-11-16", "fim": "2027-01-10"}
+    ],
+    "fotos": [
+      {"src": "/ilustracoes/laje.svg", "legenda": "Laje do bloco C depois da manta. Ilustração fictícia, não é foto da obra."}
+    ]
+  },
+  {
+    "id": "obra-garagem",
+    "titulo": "Pintura da garagem",
+    "decisao_id": "age-2027-03-18-d01",
+    "status": "em_andamento",
+    "etapa_atual": 2,
+    "etapas_total": 4,
+    "responsavel": "Marcos Almeida, síndico",
+    "orcamento_aprovado_centavos": 4500000,
+    "nota": "Aprovada na AGE de março de 2027. O realizado só soma lançamento confirmado pelo conselho.",
+    "termos": [
+      {"texto": "pintura da garagem", "forca": "especifica"},
+      {"texto": "pinturas horizonte", "forca": "especifica"}
+    ],
+    "etapas": [
+      {"n": 1, "titulo": "Preparo e raspagem", "estado": "concluida", "inicio": "2027-03-24", "fim": "2027-04-02"},
+      {"n": 2, "titulo": "Primeira demão, bloco A", "estado": "em_andamento", "inicio": "2027-04-03", "fim": null},
+      {"n": 3, "titulo": "Primeira demão, bloco B", "estado": "nao_iniciada", "inicio": null, "fim": null},
+      {"n": 4, "titulo": "Demão final e revisão", "estado": "nao_iniciada", "inicio": null, "fim": null}
+    ],
+    "fotos": [
+      {"src": "/ilustracoes/garagem.svg", "legenda": "Bloco A, preparo do piso. Ilustração fictícia, não é foto da obra."},
+      {"src": "/ilustracoes/garagem-demao.svg", "legenda": "Primeira demão no bloco A. Ilustração fictícia, não é foto da obra."}
+    ]
+  },
+  {
+    "id": "obra-luminarias",
+    "titulo": "Troca das luminárias das áreas comuns",
+    "decisao_id": "age-2027-03-18-d02",
+    "status": "em_andamento",
+    "etapa_atual": 1,
+    "etapas_total": 3,
+    "responsavel": "Marcos Almeida, síndico",
+    "orcamento_aprovado_centavos": 1200000,
+    "nota": "Aprovada na mesma AGE. Começou pelo hall do bloco B.",
+    "termos": [
+      {"texto": "luminária", "forca": "especifica"},
+      {"texto": "luminarias", "forca": "especifica"},
+      {"texto": "ilumina sul", "forca": "especifica"}
+    ],
+    "etapas": [
+      {"n": 1, "titulo": "Hall do bloco B", "estado": "em_andamento", "inicio": "2027-04-06", "fim": null},
+      {"n": 2, "titulo": "Hall do bloco A e escadas", "estado": "nao_iniciada", "inicio": null, "fim": null},
+      {"n": 3, "titulo": "Garagem e salão", "estado": "nao_iniciada", "inicio": null, "fim": null}
+    ],
+    "fotos": [
+      {"src": "/ilustracoes/luminaria.svg", "legenda": "Hall do bloco B. Ilustração fictícia, não é foto da obra."}
+    ]
+  },
+  {
+    "id": "obra-playground",
+    "titulo": "Reforma do playground",
+    "decisao_id": "age-2027-03-18-d03",
+    "status": "nao_iniciada",
+    "etapa_atual": 0,
+    "etapas_total": 1,
+    "responsavel": "Conselho, sem início",
+    "orcamento_aprovado_centavos": null,
+    "nota": "A assembleia adiou a decisão e não aprovou valor.",
+    "termos": [
+      {"texto": "playground", "forca": "especifica"}
+    ],
+    "etapas": [
+      {"n": 1, "titulo": "Aguardar nova assembleia no segundo semestre de 2027", "estado": "nao_iniciada", "inicio": null, "fim": null}
+    ],
+    "fotos": []
+  }
+]
