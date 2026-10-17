@@ -1,0 +1,8 @@
+data,documento,historico,categoria,fornecedor,valor
+2027-04-02,NF-3190,Energia elétrica das áreas comuns,Consumo,Companhia Luz Exemplo,4180.00
+2027-04-02,NF-3191,Água das áreas comuns,Consumo,Companhia Água Exemplo,2360.00
+2027-04-05,NF-3199,Material de limpeza das áreas comuns,Limpeza,LimpaBem Serviços Ltda,640.00
+2027-04-06,NF-3202,Luminária LED do hall do bloco B,Manutenção,Ilumina Sul Ltda,2100.00
+2027-04-08,NF-3214,Tinta para pintura da garagem bloco A segunda compra,Reformas e reparos,Pinturas Horizonte Ltda,5600.00
+2027-04-09,NF-3220,Mão de obra em reformas,Reformas e reparos,Pinturas Horizonte Ltda,3400.00
+2027-04-10,NF-3228,Material para reformas e reparos,Reformas e reparos,Comercial Irmãos Prado,980.00

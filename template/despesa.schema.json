@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Linha de balancete marcada",
+  "type": "object",
+  "required": ["documento", "arquivo", "linha", "valor_centavos", "revisao", "publicada"],
+  "properties": {
+    "documento": { "type": "string" },
+    "arquivo": { "type": "string" },
+    "linha": { "type": "integer", "minimum": 2 },
+    "valor_centavos": { "type": "integer" },
+    "projeto_id": { "type": ["string", "null"] },
+    "confianca": { "enum": ["alta", "media", "baixa", null] },
+    "motivo": { "type": "string" },
+    "revisao": { "enum": ["confirmada", "sugerida", "sem_vinculo"] },
+    "publicada": { "type": "boolean" }
+  }
+}

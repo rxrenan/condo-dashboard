@@ -1,0 +1,34 @@
+[
+  {
+    "id": "md-01",
+    "data": "2027-04-01",
+    "titulo": "Horário de mudança",
+    "antes": "Todos os dias, das 8h às 18h",
+    "depois": "Terça a sábado, das 8h às 17h",
+    "fonte": "Comunicado da gestão em 1º de abril de 2027"
+  },
+  {
+    "id": "md-02",
+    "data": "2027-03-20",
+    "titulo": "Limpeza das áreas comuns",
+    "antes": "Fornecedor anterior, contrato encerrado",
+    "depois": "LimpaBem Serviços Ltda assume a limpeza",
+    "fonte": "Comunicado da gestão em 20 de março de 2027"
+  },
+  {
+    "id": "md-03",
+    "data": "2027-03-18",
+    "titulo": "Churrasqueira aos domingos",
+    "antes": "Havia proposta de fechar aos domingos",
+    "depois": "O uso aos domingos continua permitido",
+    "fonte": "AGE de 18 de março de 2027, deliberação 04, resultado rejeitado"
+  },
+  {
+    "id": "md-04",
+    "data": "2027-04-05",
+    "titulo": "Horário da academia",
+    "antes": "Fechamento às 23h",
+    "depois": "Fechamento às 22h",
+    "fonte": "Comunicado da gestão em 5 de abril de 2027"
+  }
+]

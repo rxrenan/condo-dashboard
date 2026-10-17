@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Decisão extraída da ata",
+  "type": "object",
+  "required": ["id", "arquivo", "pagina", "trecho", "resultado", "votacao"],
+  "properties": {
+    "id": { "type": "string" },
+    "arquivo": { "type": "string" },
+    "pagina": { "type": "integer", "minimum": 1 },
+    "trecho": { "type": "string", "minLength": 1 },
+    "resultado": { "enum": ["aprovado", "rejeitado"] },
+    "votacao": {
+      "type": "object",
+      "required": ["a_favor", "contra", "abstencoes"],
+      "additionalProperties": false,
+      "properties": {
+        "a_favor": { "type": "integer", "minimum": 0 },
+        "contra": { "type": "integer", "minimum": 0 },
+        "abstencoes": { "type": "integer", "minimum": 0 }
+      }
+    }
+  }
+}

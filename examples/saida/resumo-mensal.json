@@ -1,0 +1,26 @@
+{
+  "competencia": "2027-04",
+  "fontes": [
+    {
+      "arquivo": "ago-2027-01-22.pdf",
+      "tipo": "ata"
+    },
+    {
+      "arquivo": "age-2027-03-18.pdf",
+      "tipo": "ata"
+    },
+    {
+      "arquivo": "2027-04.csv",
+      "tipo": "balancete"
+    },
+    {
+      "arquivo": "obras.json",
+      "tipo": "registro"
+    },
+    {
+      "arquivo": "ocorrencias.json",
+      "tipo": "registro"
+    }
+  ],
+  "texto": "Resumo de abril de 2027, montado só com registros confirmados. Nenhuma assembleia com decisão publicada em abril de 2027. A última publicada é a assembleia geral extraordinária de 18 de março de 2027. Impermeabilização da laje do bloco C está concluída, etapa 3 de 3. Pintura da garagem está em andamento, etapa 2 de 4. Troca das luminárias das áreas comuns está em andamento, etapa 1 de 3. Reforma do playground não foi iniciada. Gastos por projeto: Pintura da garagem: R$ 5.600,00 confirmados em abril, acumulado R$ 18.000,00, de R$ 45.000,00 aprovados. Troca das luminárias das áreas comuns: R$ 2.100,00 confirmados em abril, acumulado R$ 2.100,00, de R$ 12.000,00 aprovados. Ocorrências de área comum ainda sem conclusão: 2. Itens em revisão do conselho ficam de fora deste texto."
+}
